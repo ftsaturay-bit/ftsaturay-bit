@@ -53,24 +53,26 @@ As a Computer Science student, I balance my time between engineering robust syst
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ftsaturay-bit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://www.github.com/ftsaturay-bit" target="_blank" rel="noreferrer">
+  <a href="https://github.com/ftsaturay-bit" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
     </picture>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/FrancisSaturay" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/francis-saturay" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
     </picture>
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/FrancisAdriane" target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/francis.adriane.111529/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
