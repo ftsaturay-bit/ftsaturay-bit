@@ -45,13 +45,13 @@ As a Computer Science student, I balance my time between engineering robust syst
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ftsaturay-bit&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="180px" />&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=ftsaturay-bit&theme=transparent&hide_border=false" height="180px" />
+</p>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ftsaturay-bit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 
 ### 🌐 Socials
