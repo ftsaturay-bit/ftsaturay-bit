@@ -1,44 +1,18 @@
-# Hi there, I'm [Your Name] 👋
+# 💫 About Me:
+I love exploring the intersection of computer science theory, real-world debugging, and intentional design.<br><br>As a designer: I craft flexible, accessible user interfaces that adapt to the project's unique needs, rather than sticking to a single trend.<br><br>As a debugger: I build typed, full-stack applications with scalable architectures and clean, modular codebases.<br><br>As a theorist: I enjoy low-level system design, data structures, and running statistical data simulations.
 
-> **Computer Science student who is a perfectionist in theory, a debugger in practice, and a designer in spirit. Fueled by curiosity, coffee, and a love for detail. 🔍 ☕ 🎯**
 
-I am a full-stack web developer and UI/UX designer who loves transforming complex system logic into flexible, beautiful, and user-centric digital experiences. I enjoy bridging the gap between rigorous engineering and intentional, adaptable design.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Francis Adriane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Francis Saturay) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Francis Adriane Saturay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ftsaturay@up.edu.ph) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ftsaturay-bit&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🎨 Designer in Spirit
-* **Versatile UI/UX:** I don't tie myself to a single design trend. I build flexible, accessible, and adaptive interfaces tailored entirely to the project's unique needs and target audience.
-* **Frontend Ecosystem:** Crafting highly responsive, scalable frontends using modern frameworks and utility-first styling.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ftsaturay-bit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 💻 Debugger in Practice
-* **Full-Stack Implementation:** Building robust, typed web applications from backend architecture to production-ready deployments.
-* **Problem Solver:** Enthusiastic about diving deep into lines of code, optimizing performance, and squashing complex bugs.
-
-### 📐 Perfectionist in Theory
-* **System Architecture:** Fascinated by low-level systems, data structures, and clean, modular codebases.
-* **Mathematical & Data Simulation:** Experienced in running statistical simulations, analyzing point estimators, and modeling data algorithms.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend & Design** | `Next.js` `React` `TypeScript` `Tailwind CSS` `Figma` |
-| **Backend & Systems** | `Node.js` `Python` `Express` `Low-level Systems` |
-| **Data & Simulation** | `R` `SQL` `Statistical Analysis` |
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
