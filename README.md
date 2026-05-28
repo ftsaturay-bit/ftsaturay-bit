@@ -45,10 +45,10 @@ As a Computer Science student, I balance my time between engineering robust syst
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
-  <img src="https://github-readme-stats.shion.dev/api?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&title_color=ffffff&text_color=e2e8f0&icon_color=38bdf8" height="175px" style="height: 175px;" />
-  <img src="https://streak-stats.demolab.com/?user=ftsaturay-bit&theme=transparent&hide_border=false&dateCounter=e2e8f0&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=e2e8f0" height="175px" style="height: 175px;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&title_color=ffffff&text_color=e2e8f0&icon_color=38bdf8" width="48%" valign="middle" />
+  <img src="https://streak-stats.demolab.com/?user=ftsaturay-bit&theme=transparent&hide_border=false&dateCounter=e2e8f0&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=e2e8f0" width="48%" valign="middle" />
+</p>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ftsaturay-bit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
