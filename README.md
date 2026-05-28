@@ -45,16 +45,10 @@ As a Computer Science student, I balance my time between engineering robust syst
 
 ### 📊 GitHub Stats
 
-<table style="border: none; border-color: #0d1117; border-collapse: collapse;" width="100%">
-  <tr style="border: none; border-color: #0d1117;">
-    <td width="50%" align="center" valign="middle" height="170" style="border: 1px solid #0d1117; background-color: #0d1117; height: 170px;">
-      <img src="https://github-readme-stats.shion.dev/api?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&title_color=ffffff&text_color=e2e8f0&icon_color=38bdf8" height="160" style="max-height: 160px; object-fit: contain;" />
-    </td>
-    <td width="50%" align="center" valign="middle" height="170" style="border: 1px solid #0d1117; background-color: #0d1117; height: 170px;">
-      <img src="https://streak-stats.demolab.com/?user=ftsaturay-bit&theme=transparent&hide_border=false&dateCounter=e2e8f0&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=e2e8f0" height="160" style="max-height: 160px; object-fit: contain;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ftsaturay-bit&show_icons=true&theme=transparent&title_color=ffffff&text_color=e2e8f0&icon_color=38bdf8&hide_border=false&include_all_commits=true&count_private=true" width="49.5%" />
+  <img src="https://github-readme-stats.shion.dev/api/xyz.svg?method=streak&username=ftsaturay-bit&theme=transparent&title_color=ffffff&text_color=e2e8f0&icon_color=38bdf8&hide_border=false" width="49.5%" />
+</p>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ftsaturay-bit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
