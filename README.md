@@ -46,8 +46,8 @@ As a Computer Science student, I balance my time between engineering robust syst
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&title_color=ffffff&text_color=e2e8f0&icon_color=38bdf8" width="495" />
-  <img src="https://streak-stats.demolab.com/?user=ftsaturay-bit&theme=transparent&hide_border=false&dateCounter=e2e8f0&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=e2e8f0" width="495" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&title_color=ffffff&text_color=e2e8f0&icon_color=38bdf8" width="430" />
+  <img src="https://streak-stats.demolab.com/?user=ftsaturay-bit&theme=transparent&hide_border=false&dateCounter=e2e8f0&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=e2e8f0" width="430" />
 </p>
 
 ### 🏆 GitHub Trophies
@@ -79,4 +79,4 @@ As a Computer Science student, I balance my time between engineering robust syst
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" />
     </picture>
   </a>
-</p>
+</p>  
