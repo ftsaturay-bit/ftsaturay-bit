@@ -45,10 +45,16 @@ As a Computer Science student, I balance my time between engineering robust syst
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&title_color=ffffff&text_color=e2e8f0&icon_color=38bdf8" width="380" />
-  <img src="https://streak-stats.demolab.com/?user=ftsaturay-bit&theme=transparent&hide_border=false&dateCounter=e2e8f0&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=e2e8f0" width="380" />
-</p>
+<table style="border: none; border-color: #0d1117; border-collapse: collapse;" width="100%">
+  <tr style="border: none; border-color: #0d1117;">
+    <td align="center" valign="middle" style="border: 1px solid #0d1117; background-color: #0d1117;">
+      <img src="https://github-readme-stats.shion.dev/api?username=ftsaturay-bit&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&title_color=ffffff&text_color=e2e8f0&icon_color=38bdf8" width="430" />
+    </td>
+    <td align="center" valign="middle" style="border: 1px solid #0d1117; background-color: #0d1117;">
+      <img src="https://streak-stats.demolab.com/?user=ftsaturay-bit&theme=transparent&hide_border=false&dateCounter=e2e8f0&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=e2e8f0" width="430" />
+    </td>
+  </tr>
+</table>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ftsaturay-bit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
